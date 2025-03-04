@@ -25,14 +25,14 @@ To run the project exercises locally, follow the steps:
 
 2. Install C environment:
 
-On Debain 
+**On Debain:** 
 
 	```bash
 	sudo apt update
 	sudo apt install build-essential
 	```
 
-On Fedora
+**On Fedora:**
 
 	```bash
 	sudo dnf install gcc gcc-c++
@@ -40,19 +40,19 @@ On Fedora
 
 3. Run Project exercise
 
-Move into the cloned repo
+**Move into the cloned repo:**
 
 	```bash
 	cd Cprogramming
 	```
 
-Move into any chapter
+**Move into any chapter:**
 
 	``bash
 	cd chapter1
 	```
 
-Run any project exercise
+**Run any project exercise:**
 
 	```bash
 	gcc -Wall ext1-1.c -o ext1-1
