@@ -27,10 +27,10 @@ To run the project exercises locally, follow the steps:
 
 **On Debain:** 
 
-	```
+	
 	sudo apt update
 	sudo apt install build-essential
-	```
+	
 
 **On Fedora:**
 
