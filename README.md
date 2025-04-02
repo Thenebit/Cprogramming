@@ -11,6 +11,9 @@ into chapters with each chapter project exercises targeting a specific concept.
 - **Chapter3**: Covers the __Control Flow__.
 - **Chapter4**: Covers the __Functions__ and __Program Structure__.
 - **Chapter5**: Covers the __Pointers__ and __Arrays__.
+-**Chapter6**:
+-**Chapter7**:
+-**Chapter8**:
 
 ## Installation
 
@@ -48,6 +51,10 @@ To run the project exercises locally, follow the steps:
 
 	gcc -Wall ext1-1.c -o ext1-1
 	./ext1-1
+
+## PDF
+
+Thsi pdf contains the questions for each chapter covered on the projects done.
 
 ## Contributing
 
